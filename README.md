@@ -1,4 +1,4 @@
-# This code is written by : Motaz_sassd
+# This code is written by : @motazsassd
 # tweets-collector
 Collect tweets (tweets corpus) using Twitter API. 
 
